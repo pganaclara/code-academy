@@ -1,0 +1,16 @@
+.circle {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  opacity: 0.5;
+  position: absolute;
+  /* or fixed works too */
+}
+
+#red {
+  background-color: rgb(255, 0, 0);
+}
+
+#blue {
+  background-color: rgb(0, 0, 255);
+}

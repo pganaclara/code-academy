@@ -1,0 +1,19 @@
+/* In the browser, the elements that have a class attribute of .recipe are bolded. 
+In style.css, change the .recipe ruleset to only select the .recipe element nested within the <article> element. */
+
+body {
+  background-color: #f0ead6;
+  width: 90%;
+  margin: 0 auto;
+}
+
+h1 {
+  font-variant: small-caps;
+  font-size: 24px;
+  text-align: center;
+  font-weight: normal;
+}
+
+article .recipe {
+  font-weight: bold;
+}

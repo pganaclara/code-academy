@@ -1,0 +1,16 @@
+* {
+  font-family: Helvetica, Georgia, sans-serif;
+}
+
+h1 {
+  color: rgb(219, 179, 201);
+}
+
+p,
+li {
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+}
